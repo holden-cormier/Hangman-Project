@@ -14,3 +14,6 @@ This file contains the program used for the general flow of the game. This is wh
 
 'play_hangman.py' 
 This file contained the program used to start the game, in addition to returning whether the user won or lost. 
+
+'dictionary.txt'
+This file contained all of the words in the english dictionary that were used in the hangman game.
